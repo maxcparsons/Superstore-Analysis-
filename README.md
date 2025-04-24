@@ -21,7 +21,7 @@ The dataset simulates a real-world scenario for "Superstore," a Canadian retaile
 - 🗂️ **Category Breakdown**: Detailed analysis of product categories and subcategories.
 - 🏆 **Top Products**: Highlights best-selling products during selected timeframes.
 - 📅 **Timeframe Filter**: A global filter that updates all visuals based on date selections.
-- 🧭 **Map Integration** (if applicable): Geographical display of regional sales trends.
+- 🧭 **Map Integration**: Geographical display of regional sales trends.
 - 🎨 **Professional Aesthetics**: Clean layout with proper spacing, centered titles, consistent fonts, and appropriate use of the Superstore logo.
 
 ## 📦 Deliverables
